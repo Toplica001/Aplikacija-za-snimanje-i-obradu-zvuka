@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Aplikacija_za_snimanje_i_obradu_zvuka", "Aplikacija_za_snimanje_i_obradu_zvuka\Aplikacija_za_snimanje_i_obradu_zvuka.pyproj", "{F2F60E7E-8559-47C9-9735-7E7BCB7BCB0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F60E7E-8559-47C9-9735-7E7BCB7BCB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F60E7E-8559-47C9-9735-7E7BCB7BCB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A67E034-DC4E-40CD-8C63-BFF26F8A9D21}
+	EndGlobalSection
+EndGlobal
